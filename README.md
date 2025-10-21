@@ -1,0 +1,2 @@
+# -Uber-Dashboard-in-Power-BI-Real-Time-Business-Insights
+fully interactive Uber-style dashboard in Power BI, showcasing key metrics like completed bookings, revenue, booking value, customer ratings, and top locations. This dashboard transforms raw data into actionable insights for smarter decisions. 📊 Pages Included: - Dashboard Overview - Monthly Analytics &amp; KPIs - Booking Status Breakdown and more.
